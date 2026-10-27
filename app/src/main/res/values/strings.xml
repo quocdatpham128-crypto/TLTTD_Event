@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">TLTTD_Event</string>
+    <string name="title_register">ĐĂNG KÝ HỒ SƠ SINH VIÊN</string>
+    <string name="subtitle_register">Vui lòng điền đầy đủ thông tin bên dưới</string>
+    <string name="hint_full_name">Họ và tên</string>
+    <string name="hint_email">Email UTE</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="title_gender">Giới tính:</string>
+    <string name="gender_male">Nam</string>
+    <string name="gender_female">Nữ</string>
+    <string name="title_social">Mạng xã hội sử dụng:</string>
+    <string name="social_facebook">Facebook</string>
+    <string name="social_github">GitHub</string>
+    <string name="btn_submit">ĐĂNG KÝ NGAY</string>
+    <string name="title_detail_header">THÔNG TIN HỒ SƠ</string>
+    <string name="title_detail_registered">Thông tin sinh viên đã đăng ký:</string>
+    <string name="btn_back">Quay Lại</string>
 </resources>
